@@ -10,7 +10,7 @@
  program he/she uses so that application can have access to the RDBMS. After that user can
  can view program's components at DBMS on a database with the same name as project's.
  
- User needs to have an account at MySQL and import in his this source code, as external library,
+ User needs to have an account at MySQL and import in his source code, as external library,
  the ReflectionAP.jar file. After this, in the main() function of source code, user 
  imports as the last line in the main() this line: 
  "  Reflection.FullReflection();  "  .
